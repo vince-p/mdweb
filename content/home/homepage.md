@@ -33,6 +33,8 @@ advanced:
 ---
 
 -------
+{{% center %}}
+
 
 #### This page contains information about the Sydney Microdosing Study, being run by [Dr Vince Polito](https://vincep.cogscience.org) and [Dr Paul Liknaitzky](https://www.monash.edu/turner-institute/paul-liknaitzky-lab) at Macquarie University.  {#top}
 
@@ -40,6 +42,8 @@ advanced:
 [:mushroom:Enroll in the Study](#enroll)  
 [:mushroom:FAQs](/#faq)  
 
+For enquries related to this study please contact sydneymdstudy@gmail.com
+{{% /center %}}
 -------
 ## PARTICIPANT INFORMATION
 
