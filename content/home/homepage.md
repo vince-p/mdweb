@@ -22,7 +22,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: mushroom.jpg  # Name of image in `static/media/`.
-    image_darken: 0.4
+    image_darken: 0.3
     image_size: cover
     image_position: center
     image_parallax: true
@@ -35,13 +35,13 @@ advanced:
 -------
 {{% center %}}
 ### Do you microdose with psilocybin (magic mushrooms)? {#top}  
-#### A research study at Macquarie University is looking for individuals who microdose (or who are planning to microdose) to take part in a study investigating the neural effects of psychedelics. If you would like to volunteer please read the information below.
+#### A research study at Macquarie University is looking for individuals who microdose (or who are planning to microdose) to take part in a study investigating the psychological and neural effects of psychedelics. If you would like to volunteer please read the information below.
 
 [:mushroom:Participant Information](#participant-information)  
 [:mushroom:Enroll in the Study](#enrol)  
 [:mushroom:FAQs](/#faq)  
 
-For enquries related to this study please contact sydneymdstudy@gmail.com
+For enquires related to this study please contact sydneymdstudy@gmail.com
 {{% /center %}}
 -------
 ## PARTICIPANT INFORMATION
@@ -109,15 +109,15 @@ Phone: +61 2 9850 2966
 Email: vince.polito@mq.edu.au
 
 [Dr Paul Liknaitzky](https://www.monash.edu/turner-institute/paul-liknaitzky-lab) (School of Psychological Sciences and Dept of Psychiatry, Monash University))
-Email: paul.l@monash.edu
+Email: Paul.L@monash.edu
 
 -------
 
 <br>
 
 ## ENROL
-If you would like to enrol in the study you will be asked to complete a brief questionnaire to assess your eligibility.
-{{< cta cta_text="CLICK HERE TO ENROLL" cta_link="https://qualtrics.com" cta_new_tab="true" >}}
+If you would like to enrol in the study, you will be asked to complete a brief questionnaire to assess your eligibility.
+{{< cta cta_text="CLICK HERE TO ENROL" cta_link="https://qualtrics.com" cta_new_tab="true" >}}
 
 -------
 
@@ -131,33 +131,33 @@ This study is open to people aged 18-70 who are based in Sydney Australia. **_Yo
 
 {{< spoiler text="**Do you provide psychedelics to participants in this study?**" >}}
 **No.** We do not provide any substances to participants in this study. This is an observational study, investigating the experiences of people who are already microdosing. There are two reasons for this study design: 
-1. Because psychedelics are illegal in Australia beauracratic and practical barriers make research with these substances difficult. Opting for observational design allows us to build up our understanding of the effects of psychedelics and pave the way towards more ambitious future studies.
-2. This study design lets us investigate microdosing in a completely realistic context. Rather than dictate doses and schedules we are studying the effects of the ways that people actually microdose in their normal lives.
+1. An ‘observational’ study design allows us to investigate microdosing in a realistic context. Rather than dictate doses and schedules, we are studying the effects of the ways that people actually microdose.
+2. Because psychedelics are prohibited substances in Australia, bureaucratic and practical factors make research with these substances complex and expensive. Opting for an ‘observational design’ allows us to build up our understanding of the effects of psychedelics, and pave the way towards more controlled studies.
 {{< /spoiler >}}
 
 {{< spoiler text="**Can you help me find psychedelic substances?**" >}}
-Unfortunately we can't provide any information on sourcing psychedelics. These substances are illegal in Australia and we do not encourage anyone to start using these substances. 
+Unfortunately we can't provide any information on sourcing psychedelics. These substances are prohibited in Australia and we do not encourage anyone to start using these substances. 
 {{< /spoiler >}}
 
 {{< spoiler text="**Why are people with certain mental illnesses excluded from this study?**" >}}
-People with a diagnoses of psychotic disorder, bipolar disorder, dissociative disorder, or substance use disorder can't take part in the study. Additionally people with a family history of schizophrenia or psychosis cannot take part. We know that there is interest in the potential of psychedelics to help treat various mental illnesses and we appreciate that these exclusions are likely to be disappointing for some people. We're sorry if this prevents you participating. We share an interest in the clinical potential of psychedelics but at this stage we do not know enough about the mechanisms and effects of microdosing to be confident that it is safe for all people. We hope that through research like this we can increase our knowledge and support future investigations into more targetted applications of psychedelics.
+People with a diagnoses of psychotic disorder, bipolar disorder, dissociative disorder, or substance use disorder can’t take part in the study. Additionally people with a family history of schizophrenia or psychosis cannot take part. While the potential for psychedelics to help treat various mental illnesses is being explored in Australia and internationally, this is not a key focus of the current study. Accordingly, this trial does not provide the clinical support and infrastructure required to safely explore clinical applications, and the scientific aims of this study require participants without mental illness. 
 {{< /spoiler >}}
 
 {{< spoiler text="**Why are you studying something that is illegal?**" >}}
-Although psychedelics are illegal in Australia we acknowledge that many people use these substances any way. We don't encourage this but we would like to understand the effects, potential benefits and possible risks of these practices. 
+Although psychedelics are illegal in Australia we acknowledge that many people use these substances. We don't encourage this but we would like to understand the effects, potential benefits and possible risks of these practices. 
 {{< /spoiler >}}
 
 {{< spoiler text="**How will you keep my personal information safe?**" >}}
 We take participant privacy and security extremely seriously in this study. Here are some of the considerations and steps that we take:
 - We collect only the minimal amount of personal information possible for us to run the study.
-- We do need to schedule lab based visits from participants in this study and we do need to post some study materials. This means that we will ask for your phone number and a mailing address. We will keep this information only long enough to run these aspects of the study. Phone numbers and mailing addresses will then be destroyed.
+- We do need to schedule lab visits from participants in this study and we do need to post some study materials. This means that we will ask for your phone number and a mailing address. We will keep this information only long enough to run these aspects of the study. Phone numbers and mailing addresses will then be destroyed.
 - When individuals enrol in the study we provide information on how to create an anonymous email address.
 - We do not track IPs or any other digital information on our website or screening surveys.
-- We keep any study data completly separate from any personal information.
+- We keep any study data completely separate from any personal information.
 {{< /spoiler >}}
 
 {{< spoiler text="**What happens after I enrol?**" >}}
-After you complete the initial screener, if you are eligible we will contact you within 3 days to schedule your lab visits. If you do not hear from us (or if you have any problems with the screener) please write to sydneymdstudy@gmail.com
+After you complete the initial screening survey, if you are eligible we will contact you within 3 days to schedule your lab visits. If you do not hear from us (or if you have any problems with the screening survey) please write to the email address below.
 {{< /spoiler >}}
 
 <br>
