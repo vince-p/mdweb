@@ -35,7 +35,7 @@ advanced:
 -------
 {{% center %}}
 ### Do you microdose with psilocybin (magic mushrooms)? {#top}  
-#### A research study at Macquarie University is looking for individuals who microdose (or who are planning to microdose) to take part in a study investigating the neural effects of psychedelics. If you would volunteer please read the information below.
+#### A research study at Macquarie University is looking for individuals who microdose (or who are planning to microdose) to take part in a study investigating the neural effects of psychedelics. If you would like to volunteer please read the information below.
 
 [:mushroom:Participant Information](#participant-information)  
 [:mushroom:Enroll in the Study](#enrol)  
