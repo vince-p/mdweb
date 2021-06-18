@@ -25,7 +25,7 @@ console.debug(`Environment: ${hugoEnvironment}`);
 // Dynamically get responsive navigation bar height for offsetting Scrollspy.
 function getNavBarHeight() {
   let $navbar = $('#navbar-main');
-  let navbar_offset = 50//$navbar.outerHeight();
+  let navbar_offset = 10//$navbar.outerHeight();
   console.debug('Navbar height: ' + navbar_offset);
   return navbar_offset;
 }
