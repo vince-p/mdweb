@@ -22,7 +22,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: mushroom.jpg  # Name of image in `static/media/`.
-    image_darken: 0.3
+    image_darken: 0.2
     image_size: cover
     image_position: center
     image_parallax: true
@@ -45,9 +45,7 @@ For enquires related to this study please contact sydneymdstudy@gmail.com
 {{% /center %}}
 -------
 ## PARTICIPANT INFORMATION
-
 <br>
-
 {{% callout note %}}
 Please read the participant information carefully before enrolling.
 {{% /callout %}}
@@ -73,6 +71,8 @@ To participate in this study, you must  be planning to microdose during the next
 
 #### WHAT IS INVOLVED?
 
+![Our MEG lab](media/meg.jpg "Our MEG lab")
+
 ##### The study will include the following parts:
 - When first enrolling in the study we will ask you to complete an online survey to assess your suitability for the study. This will take only a few minutes; if you are eligible, you will be asked to answer further questions in the same sitting, which will take approximately 15-minutes to complete.
 - If eligible, you will be contacted to schedule two laboratory appointments. In addition, we will provide instructions for how to prepare a placebo microdose.
@@ -96,7 +96,7 @@ Your privacy will be protected and we will only store identifiable information i
 
 <br>
 
-If you would like to participate, or to find out more, please [visit this link](LINK).
+If you would like to participate, or to find out more, please [enrol below](#enrol).
 
 <br>
 
@@ -108,7 +108,7 @@ Thank you for your support of this research.
 Phone: +61 2 9850 2966
 Email: vince.polito@mq.edu.au
 
-[Dr Paul Liknaitzky](https://www.monash.edu/turner-institute/paul-liknaitzky-lab) (School of Psychological Sciences and Dept of Psychiatry, Monash University))
+[Dr Paul Liknaitzky](https://www.monash.edu/turner-institute/paul-liknaitzky-lab) (School of Psychological Sciences and Dept of Psychiatry, Monash University)
 Email: Paul.L@monash.edu
 
 -------
