@@ -34,11 +34,11 @@ advanced:
 
 -------
 {{% center %}}
-### Do you microdose with psilocybin (magic mushrooms)? {#top}  
-#### A research study at Macquarie University is looking for individuals who microdose (or who are planning to microdose) to take part in a study investigating the psychological and neural effects of psychedelics. If you would like to volunteer please read the information below.
+### Do you microdose with psilocybin (magic mushrooms)? {#top}
+#### Researchers at Macquarie University are looking for individuals who microdose (or who are planning to microdose) to take part in a study investigating the psychological and neural effects of psychedelics. If you would like to volunteer please read the information below.  
 
 [:mushroom:Participant Information](#participant-information)  
-[:mushroom:Enroll in the Study](#enrol)  
+[:mushroom:Enrol in the Study](#enrol)  
 [:mushroom:FAQs](/#faq)  
 
 For enquires related to this study please contact sydneymdstudy@gmail.com
@@ -52,14 +52,16 @@ Please read the participant information carefully before enrolling.
 <br>
 
 #### WHAT IS MICRODOSING?
-- Microdosing is taking a very low dose of a psychedelic substance, for example approximately .1 - .5 grams of dried Psilocybe Cubensis mushrooms, or 2-5 milligrams of synthetic psilocybin.
+- Microdosing is taking a very low dose of a psychedelic substance, for example approximately 0.1 - 0.5 grams of dried Psilocybe Cubensis mushrooms, or 2-5 milligrams of synthetic psilocybin.
 - People who microdose typically take one dose every 3-4 days for a period of time.
 
 <br>
 
 -------
 
-### **_This study is not intended to encourage anyone to use illegal substances. We are looking for people who are already microdosing. We will not provide anyone with any substances in this study._**
+#### **_{{< span style="color:CornflowerBlue;" text="This study is not intended to encourage anyone to use illegal substances. We are looking for people who are already microdosing. We will not provide anyone with any substances in this study." >}}_**
+
+
 
 -------
 <br>
@@ -69,9 +71,9 @@ To participate in this study, you must  be planning to microdose during the next
 
 <br>
 
-#### WHAT IS INVOLVED?
+<center>{{< figure src="/media/hub.jpg" title="We will invite you to two lab visits in the Department of Cognitive Science @ Macquarie University" >}}</center>
 
-![Our MEG lab](media/meg.jpg "Our MEG lab")
+#### WHAT IS INVOLVED?
 
 ##### The study will include the following parts:
 - When first enrolling in the study we will ask you to complete an online survey to assess your suitability for the study. This will take only a few minutes; if you are eligible, you will be asked to answer further questions in the same sitting, which will take approximately 15-minutes to complete.
@@ -83,6 +85,8 @@ To participate in this study, you must  be planning to microdose during the next
 The MEG scan takes place in a small room, and participants will be required to lie in a confined scanner for up to 45 minutes.
 
 You are free to discontinue the study immediately and at any time, without providing a reason. 
+
+<center>{{< figure src="/media/meg4.jpg" title="We will use MEG to track the effects of microdosing on brain activity" >}}</center>
 
 <br>
 
@@ -117,7 +121,7 @@ Email: Paul.L@monash.edu
 
 ## ENROL
 If you would like to enrol in the study, you will be asked to complete a brief questionnaire to assess your eligibility.
-{{< cta cta_text="CLICK HERE TO ENROL" cta_link="https://qualtrics.com" cta_new_tab="true" >}}
+{{< cta cta_text="CLICK HERE TO ENROL" cta_link="https://mqedu.qualtrics.com/jfe/form/SV_9R1fce2ne69GTrw" cta_new_tab="true" >}}
 
 -------
 
@@ -158,6 +162,7 @@ We take participant privacy and security extremely seriously in this study. Here
 
 {{< spoiler text="**What happens after I enrol?**" >}}
 After you complete the initial screening survey, if you are eligible we will contact you within 3 days to schedule your lab visits. If you do not hear from us (or if you have any problems with the screening survey) please write to the email address below.
+
 {{< /spoiler >}}
 
 <br>
