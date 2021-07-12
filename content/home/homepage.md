@@ -22,7 +22,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: mushroom.jpg  # Name of image in `static/media/`.
-    image_darken: 0.2
+    image_darken: 0.25
     image_size: cover
     image_position: center
     image_parallax: true
